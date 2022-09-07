@@ -67,7 +67,7 @@ html {
 }
 
 .header-image {
-  background-image: url("https://dinoabrego.github.io/yeniraivan/assets/images/2645.jpg");
+  background-image: url("assets/images/2645.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -76,7 +76,7 @@ html {
 }
 
 .footer-image {
-  background-image: url("https://dinoabrego.github.io/yeniraivan/assets/images/2686.jpg");
+  background-image: url("assets/images/2686.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
